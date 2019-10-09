@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testepkg.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-04T17:15:42" hostname="DESKTOP-QT9K72E" time="0.001">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="testepkg.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
